@@ -1,6 +1,7 @@
 {
     "env": {
-        "MONGODB_USERNAME": "mystore-riz",
-        "MONGODB_PASSWORD": "mystore"
+        "MONGODB_USERNAME": "",
+        "MONGODB_PASSWORD": ""
+        
     }
 }
